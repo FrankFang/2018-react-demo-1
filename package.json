@@ -7,6 +7,7 @@
     "react-dom": "^16.4.2",
     "react-scripts": "1.1.4"
   },
+  "homepage" : "https://frankfang.github.io/2018-react-demo-1/build",
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
